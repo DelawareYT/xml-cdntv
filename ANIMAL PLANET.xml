@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes"?>
+<BroadcastData code="1100000000" creationtime="20231023013339" version="2.0">
+  <SchedulerData type="PROGRAM">
+    <Channel>
+      <ChannelText language="spa">
+        <ChannelName>ANIMAL PLANET</ChannelName>
+      </ChannelText>
+      <Event eventod="1" begintime="20231023023500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (Establo en el patio trasero)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="2" begintime="20231023032600" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>El genio de las piscinas (Piscina en el acantilado)</Name>
+          <ShortDescription>El paisajista Anthony Archer es un maestro extraordinario: dise?a y construye bellísimas piscinas natu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Anthony Archer" />
+        </EventText>
+      </Event>
+      <Event eventod="3" begintime="20231023041400" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Silencioso y fatal)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="4" begintime="20231023044200" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El ninja de la selva)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="5" begintime="20231023050900" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Tiburón asesino: la extinción</Name>
+          <ShortDescription>El tiburón asesino está de vuelta y puede llevar a la nutria marina de California a la extinción. Los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brandon McMillan,Jimi Partington,Ralph Collier" />
+        </EventText>
+      </Event>
+      <Event eventod="6" begintime="20231023055800" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Vinieron desde abajo)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="7" begintime="20231023064600" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Violentos y venenosos)</Name>
+          <ShortDescription>En todo el mundo, animales de un país han desplazado a los animales de otro. ?Cómo ocurrieron estas in...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="8" begintime="20231023073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales y famosos (El oso de Emily Deschanel)</Name>
+          <ShortDescription>Ya sea en casa, en el set o en el medio de la nada, estas son las aventuras animadas más alocadas y ex...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="9" begintime="20231023080000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (Rescate en un incendio)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="10" begintime="20231023085100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Enemigos de la comida)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="11" begintime="20231023094200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dra. Dee: veterinaria de Alaska (El virus felino)</Name>
+          <ShortDescription>Ya sea recorriendo los territorios más traicioneros del continente o asumiendo riesgos personales para...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dee Thornell" />
+        </EventText>
+      </Event>
+      <Event eventod="12" begintime="20231023103300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mi gato endemoniado (Pesadilla)</Name>
+          <ShortDescription>Desde gatos espásticos hasta felinos violentos, Jackson, experto en comportamiento de estos animales, ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy" />
+        </EventText>
+      </Event>
+      <Event eventod="13" begintime="20231023112400" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Los cazadores de veneno (?Hombre al suelo!)</Name>
+          <ShortDescription>Un equipo de cazadores arriesgan la vida en la búsqueda de veneno animal para obtener muestras de toxi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan Massey, Chewy,Brian Barczyk" />
+        </EventText>
+      </Event>
+      <Event eventod="14" begintime="20231023121200" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Insectos adorados)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="15" begintime="20231023130000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dr. Jeff, veterinario (Un cuerpo nuevo para Lolly)</Name>
+          <ShortDescription>El Dr. Jeff Young es un carismático héroe que tiene un espíritu positivo mientras trata a una amplia v...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jeff Young" />
+        </EventText>
+      </Event>
+      <Event eventod="16" begintime="20231023135100" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>SOS animal ()</Name>
+          <ShortDescription>Sigue las misiones de dos veterinarias que no temen enfrentarse a desafíos para salvar la vida de los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Carla Sássi,Amélia Oliveira" />
+        </EventText>
+      </Event>
+      <Event eventod="17" begintime="20231023141900" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>SOS animal ()</Name>
+          <ShortDescription>Sigue las misiones de dos veterinarias que no temen enfrentarse a desafíos para salvar la vida de los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Carla Sássi,Amélia Oliveira" />
+        </EventText>
+      </Event>
+      <Event eventod="18" begintime="20231023144700" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: Mascotas humanas ()</Name>
+          <ShortDescription>El valor del negocio de animales domésticos en Espa?a asciende a varios millones de euros y no hace má...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="19" begintime="20231023153800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: Mascotas humanas ()</Name>
+          <ShortDescription>El valor del negocio de animales domésticos en Espa?a asciende a varios millones de euros y no hace má...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="20" begintime="20231023162900" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Amenaza con cara inocente)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="21" begintime="20231023165700" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El hámster malvado)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="22" begintime="20231023172500" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (Sangre en el agua)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="23" begintime="20231023181300" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Ataque suburbano)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="24" begintime="20231023190100" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Los muros tienen ojos)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="25" begintime="20231023194900" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (La costa del desierto)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="26" begintime="20231023203800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dentro de Wild Frank ()</Name>
+          <ShortDescription>Frank Cuesta nos muestra la naturaleza desde otra perspectiva, mientras visita diversos lugares del mu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="27" begintime="20231023212900" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (El club de la pelea de gallos)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="28" begintime="20231023222100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Perros y monos)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="29" begintime="20231023231200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Entre perros y gatos (Me echan mis animales)</Name>
+          <ShortDescription>En esta serie, las parejas tratan de que las mascotas opuestas se lleven bien, y para eso le piden ayu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy,Zoe Stathis-Sandor" />
+        </EventText>
+      </Event>
+      <Event eventod="30" begintime="20231024000300" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Cervatillos amigos)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="31" begintime="20231024005300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dr. Jeff, veterinario (Una nueva aventura)</Name>
+          <ShortDescription>El Dr. Jeff Young es un carismático héroe que tiene un espíritu positivo mientras trata a una amplia v...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jeff Young" />
+        </EventText>
+      </Event>
+      <Event eventod="32" begintime="20231024014400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (El desafío de los lagartos)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="33" begintime="20231024023500" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (El club de la pelea de gallos)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="34" begintime="20231024032700" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Perros y monos)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="35" begintime="20231024041700" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Entre perros y gatos (Me echan mis animales)</Name>
+          <ShortDescription>En esta serie, las parejas tratan de que las mascotas opuestas se lleven bien, y para eso le piden ayu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy,Zoe Stathis-Sandor" />
+        </EventText>
+      </Event>
+      <Event eventod="36" begintime="20231024050700" duration="004700" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Cervatillos amigos)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="37" begintime="20231024055400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Dr. Jeff, veterinario (Una nueva aventura)</Name>
+          <ShortDescription>El Dr. Jeff Young es un carismático héroe que tiene un espíritu positivo mientras trata a una amplia v...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jeff Young" />
+        </EventText>
+      </Event>
+      <Event eventod="38" begintime="20231024064400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (El desafío de los lagartos)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="39" begintime="20231024073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Pantano peligroso (Cuando Coco conoció a Lucy)</Name>
+          <ShortDescription>Robbie y Stephen protegen animales salvajes y tienen el criadero de serpientes venenosas más grande de...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Stephen Keszey,Robbie Keszey" />
+        </EventText>
+      </Event>
+      <Event eventod="40" begintime="20231024080000" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Silencioso y fatal)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="41" begintime="20231024082700" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El ninja de la selva)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="42" begintime="20231024085500" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Río sin retorno (La hacienda)</Name>
+          <ShortDescription>Dentro de Idaho se encuentra "The Frank". La única forma de acceder es un vuelo audaz o un desgarrador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="43" begintime="20231024094400" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Historias de grandes felinos (Batalla en la planicie)</Name>
+          <ShortDescription>Conozca a los leones, los leopardos y los guepardos de la reserva Masái Mara de Kenia. Los presentador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Looseyia,Angela Scott,Jonathan Silver Scott" />
+        </EventText>
+      </Event>
+      <Event eventod="44" begintime="20231024103300" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (Monta?as)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="45" begintime="20231024112100" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (El palacio del fútbol)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="46" begintime="20231024121100" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Una médium infeliz)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="47" begintime="20231024125900" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (S.O.S.)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="48" begintime="20231024134700" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Pesca mortal (No muerdas la mano...)</Name>
+          <ShortDescription>Olas de doce metros de altura, temperaturas bajo cero y casi un 100% de posibilidades de lesiones. ?Bi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Mike Rowe,Sig Hansen,Keith Colburn" />
+        </EventText>
+      </Event>
+      <Event eventod="49" begintime="20231024143800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (Rescate en un incendio)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="50" begintime="20231024152900" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Enemigos de la comida)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="51" begintime="20231024162000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dra. Dee: veterinaria de Alaska (El virus felino)</Name>
+          <ShortDescription>Ya sea recorriendo los territorios más traicioneros del continente o asumiendo riesgos personales para...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dee Thornell" />
+        </EventText>
+      </Event>
+      <Event eventod="52" begintime="20231024171100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Insectos adorados)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="53" begintime="20231024180200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dr. Jeff, veterinario (Un cuerpo nuevo para Lolly)</Name>
+          <ShortDescription>El Dr. Jeff Young es un carismático héroe que tiene un espíritu positivo mientras trata a una amplia v...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jeff Young" />
+        </EventText>
+      </Event>
+      <Event eventod="54" begintime="20231024185300" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>SOS animal ()</Name>
+          <ShortDescription>Sigue las misiones de dos veterinarias que no temen enfrentarse a desafíos para salvar la vida de los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Carla Sássi,Amélia Oliveira" />
+        </EventText>
+      </Event>
+      <Event eventod="55" begintime="20231024192100" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>SOS animal ()</Name>
+          <ShortDescription>Sigue las misiones de dos veterinarias que no temen enfrentarse a desafíos para salvar la vida de los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Carla Sássi,Amélia Oliveira" />
+        </EventText>
+      </Event>
+      <Event eventod="56" begintime="20231024194900" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (El lejano sur)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="57" begintime="20231024203800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: caza ()</Name>
+          <ShortDescription>La caza es una de las tradiciones más polémicas en el mundo. Frank Cuesta examina una actividad que di...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="58" begintime="20231024212900" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Espinas)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="59" begintime="20231024215600" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Animal medieval)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="60" begintime="20231024222400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Río sin retorno (Respuesta rápida)</Name>
+          <ShortDescription>Dentro de Idaho se encuentra "The Frank". La única forma de acceder es un vuelo audaz o un desgarrador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="61" begintime="20231024231400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Historias de grandes felinos (Rostros en las sombras)</Name>
+          <ShortDescription>Conozca a los leones, los leopardos y los guepardos de la reserva Masái Mara de Kenia. Los presentador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Looseyia,Angela Scott,Jonathan Silver Scott" />
+        </EventText>
+      </Event>
+      <Event eventod="62" begintime="20231025000500" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Tienen un Pie Grande aquí)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="63" begintime="20231025005500" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Campamento de terror)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="64" begintime="20231025014500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Pesca mortal (Sangre nueva, viejas heridas)</Name>
+          <ShortDescription>Olas de doce metros de altura, temperaturas bajo cero y casi un 100% de posibilidades de lesiones. ?Bi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Mike Rowe,Sig Hansen,Keith Colburn" />
+        </EventText>
+      </Event>
+      <Event eventod="65" begintime="20231025023600" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Espinas)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="66" begintime="20231025030300" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Animal medieval)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="67" begintime="20231025033100" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Río sin retorno (Respuesta rápida)</Name>
+          <ShortDescription>Dentro de Idaho se encuentra "The Frank". La única forma de acceder es un vuelo audaz o un desgarrador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="68" begintime="20231025041900" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Historias de grandes felinos (Rostros en las sombras)</Name>
+          <ShortDescription>Conozca a los leones, los leopardos y los guepardos de la reserva Masái Mara de Kenia. Los presentador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Looseyia,Angela Scott,Jonathan Silver Scott" />
+        </EventText>
+      </Event>
+      <Event eventod="69" begintime="20231025050900" duration="004700" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Tienen un Pie Grande aquí)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="70" begintime="20231025055600" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Campamento de terror)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="71" begintime="20231025064500" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Pesca mortal (Sangre nueva, viejas heridas)</Name>
+          <ShortDescription>Olas de doce metros de altura, temperaturas bajo cero y casi un 100% de posibilidades de lesiones. ?Bi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Mike Rowe,Sig Hansen,Keith Colburn" />
+        </EventText>
+      </Event>
+      <Event eventod="72" begintime="20231025073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Pantano peligroso (Remodelación extrema)</Name>
+          <ShortDescription>Robbie y Stephen protegen animales salvajes y tienen el criadero de serpientes venenosas más grande de...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Stephen Keszey,Robbie Keszey" />
+        </EventText>
+      </Event>
+      <Event eventod="73" begintime="20231025080000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Viajes salvajes con Andrew Ucles (Australia)</Name>
+          <ShortDescription>Trabajando sobre la teoría de que los animales siempre están dispuestos a darte un poco de su tiempo s...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Ucles" />
+        </EventText>
+      </Event>
+      <Event eventod="74" begintime="20231025085100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Alerta: osos intrusos (Punto de quiebre)</Name>
+          <ShortDescription>Ann Bryant, Directora del Bear League, está decidida a salvar a estos osos y para ello no se detendrá ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Ann Bryant" />
+        </EventText>
+      </Event>
+      <Event eventod="75" begintime="20231025094200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Jugando con fuego)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="76" begintime="20231025103300" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Cazadores de dinosaurios (Vaqueros dinosaurios)</Name>
+          <ShortDescription>Vaqueros y ganaderos confían en su profundo conocimiento de la tierra para buscar fósiles de dinosauri...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Clayton Phipps,Michael Harris,Aaron Bolan" />
+        </EventText>
+      </Event>
+      <Event eventod="77" begintime="20231025112200" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Texas (Trampa para caimanes)</Name>
+          <ShortDescription>Una serie que presenta a los Texas Game Wardens, quienes protegen más de un cuarto de millón de millas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Mack Chambers,Froylan Hernandez,Morgan Inman" />
+        </EventText>
+      </Event>
+      <Event eventod="78" begintime="20231025121200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales en riesgo: Phoenix (Crueldad animal)</Name>
+          <ShortDescription>Esta serie sigue el trabajo de los técnicos médicos de emergencias de animales; y une de forma convinc...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="79" begintime="20231025130300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes al rescate (Pesadilla en el campamento)</Name>
+          <ShortDescription>Sigue las haza?as de los ángeles de la guarda del reino animal, uno de los equipos de rescate más efec...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Rob Misseri,Dori Moose,Brian Face" />
+        </EventText>
+      </Event>
+      <Event eventod="80" begintime="20231025135400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Ciencia al rescate (Escape del Valle de la Muerte)</Name>
+          <ShortDescription>Andy Quitmeyer nos ayuda a sobrevivir en la naturaleza. Usando los materiales que tiene combinados con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Quitmeyer" />
+        </EventText>
+      </Event>
+      <Event eventod="81" begintime="20231025144500" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Silencioso y fatal)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="82" begintime="20231025151300" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El ninja de la selva)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="83" begintime="20231025154000" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Río sin retorno (La hacienda)</Name>
+          <ShortDescription>Dentro de Idaho se encuentra "The Frank". La única forma de acceder es un vuelo audaz o un desgarrador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="84" begintime="20231025162800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Historias de grandes felinos (Batalla en la planicie)</Name>
+          <ShortDescription>Conozca a los leones, los leopardos y los guepardos de la reserva Masái Mara de Kenia. Los presentador...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Looseyia,Angela Scott,Jonathan Silver Scott" />
+        </EventText>
+      </Event>
+      <Event eventod="85" begintime="20231025171900" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (Una médium infeliz)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="86" begintime="20231025180800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Pie grande asesino en Alaska (S.O.S.)</Name>
+          <ShortDescription>Los nativos de Alaska fueron expulsados de su aldea hace 70 a?os por una criatura que creían que era u...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="D.J. Brewster,Ash Naderhoff,Keith Seville" />
+        </EventText>
+      </Event>
+      <Event eventod="87" begintime="20231025185900" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (El terror de Sudamérica)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="88" begintime="20231025195000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (Un a?o en la naturaleza)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="89" begintime="20231025204100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: caza ()</Name>
+          <ShortDescription>La caza es una de las tradiciones más polémicas en el mundo. Frank Cuesta examina una actividad que di...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="90" begintime="20231025213200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Ciencia al rescate (La maldición de la selva)</Name>
+          <ShortDescription>Andy Quitmeyer nos ayuda a sobrevivir en la naturaleza. Usando los materiales que tiene combinados con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Quitmeyer" />
+        </EventText>
+      </Event>
+      <Event eventod="91" begintime="20231025222300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Alerta: osos intrusos (Crimen y castigo)</Name>
+          <ShortDescription>Ann Bryant, Directora del Bear League, está decidida a salvar a estos osos y para ello no se detendrá ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Ann Bryant" />
+        </EventText>
+      </Event>
+      <Event eventod="92" begintime="20231025231400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Emboscada)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="93" begintime="20231026000500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales en riesgo: Phoenix (No es fácil atraparlos)</Name>
+          <ShortDescription>Esta serie sigue el trabajo de los técnicos médicos de emergencias de animales; y une de forma convinc...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="94" begintime="20231026005600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes al rescate (Rescate en el pantano)</Name>
+          <ShortDescription>Sigue las haza?as de los ángeles de la guarda del reino animal, uno de los equipos de rescate más efec...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Rob Misseri,Dori Moose,Brian Face" />
+        </EventText>
+      </Event>
+      <Event eventod="95" begintime="20231026014600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Joe Exotic: Historia revelada</Name>
+          <ShortDescription>La historia detrás de Joe Exotic y el infame GW Zoo, con entrevistas a Joe, sus ex empleados, líderes ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Joe Exotic" />
+        </EventText>
+      </Event>
+      <Event eventod="96" begintime="20231026023700" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Ciencia al rescate (La maldición de la selva)</Name>
+          <ShortDescription>Andy Quitmeyer nos ayuda a sobrevivir en la naturaleza. Usando los materiales que tiene combinados con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Quitmeyer" />
+        </EventText>
+      </Event>
+      <Event eventod="97" begintime="20231026032500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Alerta: osos intrusos (Crimen y castigo)</Name>
+          <ShortDescription>Ann Bryant, Directora del Bear League, está decidida a salvar a estos osos y para ello no se detendrá ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Ann Bryant" />
+        </EventText>
+      </Event>
+      <Event eventod="98" begintime="20231026041600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Emboscada)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="99" begintime="20231026050600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales en riesgo: Phoenix (No es fácil atraparlos)</Name>
+          <ShortDescription>Esta serie sigue el trabajo de los técnicos médicos de emergencias de animales; y une de forma convinc...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="100" begintime="20231026055600" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes al rescate (Rescate en el pantano)</Name>
+          <ShortDescription>Sigue las haza?as de los ángeles de la guarda del reino animal, uno de los equipos de rescate más efec...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Rob Misseri,Dori Moose,Brian Face" />
+        </EventText>
+      </Event>
+      <Event eventod="101" begintime="20231026064400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Joe Exotic: Historia revelada</Name>
+          <ShortDescription>La historia detrás de Joe Exotic y el infame GW Zoo, con entrevistas a Joe, sus ex empleados, líderes ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Joe Exotic" />
+        </EventText>
+      </Event>
+      <Event eventod="102" begintime="20231026073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Pantano peligroso (Expansión)</Name>
+          <ShortDescription>Robbie y Stephen protegen animales salvajes y tienen el criadero de serpientes venenosas más grande de...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Stephen Keszey,Robbie Keszey" />
+        </EventText>
+      </Event>
+      <Event eventod="103" begintime="20231026080000" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (La liberación de Lawa)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="104" begintime="20231026082700" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (El recuerdo del terremoto)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="105" begintime="20231026085300" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Isla salvaje (Entre el agua y los lobos)</Name>
+          <ShortDescription>Con sus acantilados mortales, plantas tóxicas, escorpiones venenosos y jabalíes, la isla de Mona es el...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="106" begintime="20231026094200" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (El unicornio asiático)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="107" begintime="20231026103100" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales en riesgo: Miami (Traición)</Name>
+          <ShortDescription>Esta serie sigue el trabajo de los investigadores del Departamento de Servicios a los Animales del con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Rodd Houston" />
+        </EventText>
+      </Event>
+      <Event eventod="108" begintime="20231026112000" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Dra. Dee: veterinaria de Alaska (Operación "Búhos")</Name>
+          <ShortDescription>Ya sea recorriendo los territorios más traicioneros del continente o asumiendo riesgos personales para...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dee Thornell" />
+        </EventText>
+      </Event>
+      <Event eventod="109" begintime="20231026121000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Hombre vs. elefante)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="110" begintime="20231026130100" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Supervivencia salvaje (Defensa animal)</Name>
+          <ShortDescription>Para los animales salvajes, la vida es pura supervivencia y en esta batalla diaria, muchas especies se...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="111" begintime="20231026135100" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Los siete pecados animales (Orgullo)</Name>
+          <ShortDescription>Esta serie es una exploración por los siete pecados capitales vistos desde la perspectiva del mundo an...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Richard E. Grant" />
+        </EventText>
+      </Event>
+      <Event eventod="112" begintime="20231026144100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Viajes salvajes con Andrew Ucles (Australia)</Name>
+          <ShortDescription>Trabajando sobre la teoría de que los animales siempre están dispuestos a darte un poco de su tiempo s...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Ucles" />
+        </EventText>
+      </Event>
+      <Event eventod="113" begintime="20231026153200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Alerta: osos intrusos (Punto de quiebre)</Name>
+          <ShortDescription>Ann Bryant, Directora del Bear League, está decidida a salvar a estos osos y para ello no se detendrá ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Ann Bryant" />
+        </EventText>
+      </Event>
+      <Event eventod="114" begintime="20231026162300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Jugando con fuego)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="115" begintime="20231026171400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales en riesgo: Phoenix (Crueldad animal)</Name>
+          <ShortDescription>Esta serie sigue el trabajo de los técnicos médicos de emergencias de animales; y une de forma convinc...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="116" begintime="20231026180500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes al rescate (Pesadilla en el campamento)</Name>
+          <ShortDescription>Sigue las haza?as de los ángeles de la guarda del reino animal, uno de los equipos de rescate más efec...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Rob Misseri,Dori Moose,Brian Face" />
+        </EventText>
+      </Event>
+      <Event eventod="117" begintime="20231026185600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Ciencia al rescate (Escape del Valle de la Muerte)</Name>
+          <ShortDescription>Andy Quitmeyer nos ayuda a sobrevivir en la naturaleza. Usando los materiales que tiene combinados con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Andrew Quitmeyer" />
+        </EventText>
+      </Event>
+      <Event eventod="118" begintime="20231026194700" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Edén: paraísos remotos (Borneo: bosque sagrado)</Name>
+          <ShortDescription>Un viaje por los rincones más lejanos del planeta para descubrir los secretos de las pocas tierras vír...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="119" begintime="20231026203800" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: caza ()</Name>
+          <ShortDescription>La caza es una de las tradiciones más polémicas en el mundo. Frank Cuesta examina una actividad que di...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="120" begintime="20231026212900" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (El enigma del tiburón)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="121" begintime="20231026215600" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (Carrera hacia la cima)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="122" begintime="20231026222300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dinosaurios modernos (El tuátara)</Name>
+          <ShortDescription>Una serie icónica que rinde homenaje a la biodiversidad y el esplendor geográfico de uno de los países...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="123" begintime="20231026231400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (El lobo del sur de las Monta?as Rocosas)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="124" begintime="20231027000500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (El peligroso final del viaje)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="125" begintime="20231027005600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Supervivencia salvaje (Criaturas de sangre fría)</Name>
+          <ShortDescription>Para los animales salvajes, la vida es pura supervivencia y en esta batalla diaria, muchas especies se...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="126" begintime="20231027014600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Los siete pecados animales (Codicia)</Name>
+          <ShortDescription>Esta serie es una exploración por los siete pecados capitales vistos desde la perspectiva del mundo an...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Richard E. Grant" />
+        </EventText>
+      </Event>
+      <Event eventod="127" begintime="20231027023600" duration="002800" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (El enigma del tiburón)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="128" begintime="20231027030400" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (Carrera hacia la cima)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="129" begintime="20231027033100" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Dinosaurios modernos (El tuátara)</Name>
+          <ShortDescription>Una serie icónica que rinde homenaje a la biodiversidad y el esplendor geográfico de uno de los países...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="130" begintime="20231027041900" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (El lobo del sur de las Monta?as Rocosas)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="131" begintime="20231027050900" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (El peligroso final del viaje)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="132" begintime="20231027055900" duration="004700" eventtype="00">
+        <EventText language="spa">
+          <Name>Supervivencia salvaje (Criaturas de sangre fría)</Name>
+          <ShortDescription>Para los animales salvajes, la vida es pura supervivencia y en esta batalla diaria, muchas especies se...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="133" begintime="20231027064600" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Los siete pecados animales (Codicia)</Name>
+          <ShortDescription>Esta serie es una exploración por los siete pecados capitales vistos desde la perspectiva del mundo an...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Richard E. Grant" />
+        </EventText>
+      </Event>
+      <Event eventod="134" begintime="20231027073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Pantano peligroso (Supermodelos)</Name>
+          <ShortDescription>Robbie y Stephen protegen animales salvajes y tienen el criadero de serpientes venenosas más grande de...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Stephen Keszey,Robbie Keszey" />
+        </EventText>
+      </Event>
+      <Event eventod="135" begintime="20231027080000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Criaturas misteriosas (Brujería de cocodrilo)</Name>
+          <ShortDescription>Forrest Galante y su equipo recorren el mundo para investigar criaturas misteriosas que generan confli...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante,Jessica Evans" />
+        </EventText>
+      </Event>
+      <Event eventod="136" begintime="20231027085100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Unirse a la manada)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="137" begintime="20231027094300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Jugando con fuego)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="138" begintime="20231027103400" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Mansiones en los árboles (En nombre de Lloyd Wright)</Name>
+          <ShortDescription>Sigue de cerca el trabajo de Pete Nelson. Este dise?ador y constructor de casas en los árboles se dedi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Peter Nelson,Tory Jones,Christina Salway" />
+        </EventText>
+      </Event>
+      <Event eventod="139" begintime="20231027112300" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Mansiones en los árboles (En las copas de los manzanos)</Name>
+          <ShortDescription>Sigue de cerca el trabajo de Pete Nelson. Este dise?ador y constructor de casas en los árboles se dedi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Peter Nelson,Tory Jones,Christina Salway" />
+        </EventText>
+      </Event>
+      <Event eventod="140" begintime="20231027121300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Solo y en peligro (Caos en la monta?a)</Name>
+          <ShortDescription>?Qué pasaría si estuvieras solo en el bosque rodeado por muchos depredadores? Esta serie muestra disti...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="141" begintime="20231027130400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (El lejano sur)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="142" begintime="20231027135500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (Un a?o en la naturaleza)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="143" begintime="20231027144600" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (La liberación de Lawa)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="144" begintime="20231027151300" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes de Borneo (El recuerdo del terremoto)</Name>
+          <ShortDescription>Las aventuras que viven un grupo de guardabosques, científicos y exploradores de vanguardia que tiene ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="145" begintime="20231027153900" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Isla salvaje (Entre el agua y los lobos)</Name>
+          <ShortDescription>Con sus acantilados mortales, plantas tóxicas, escorpiones venenosos y jabalíes, la isla de Mona es el...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="146" begintime="20231027163000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (El unicornio asiático)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="147" begintime="20231027172100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Hombre vs. elefante)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="148" begintime="20231027181200" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Supervivencia salvaje (Defensa animal)</Name>
+          <ShortDescription>Para los animales salvajes, la vida es pura supervivencia y en esta batalla diaria, muchas especies se...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="149" begintime="20231027190000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los siete pecados animales (Orgullo)</Name>
+          <ShortDescription>Esta serie es una exploración por los siete pecados capitales vistos desde la perspectiva del mundo an...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Richard E. Grant" />
+        </EventText>
+      </Event>
+      <Event eventod="150" begintime="20231027195100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Edén: paraísos remotos (Namib: costa de los esqueletos y más allá)</Name>
+          <ShortDescription>Un viaje por los rincones más lejanos del planeta para descubrir los secretos de las pocas tierras vír...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="151" begintime="20231027204300" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: Ante los ojos del león ()</Name>
+          <ShortDescription>Esta temporada está concebida como un evento especial de la saga y consta tan solo de tres episodios, ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="152" begintime="20231027213300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Criaturas misteriosas (El dragón del lago Chelan)</Name>
+          <ShortDescription>Forrest Galante y su equipo recorren el mundo para investigar criaturas misteriosas que generan confli...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante,Jessica Evans" />
+        </EventText>
+      </Event>
+      <Event eventod="153" begintime="20231027222400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Hombre vs. elefante)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="154" begintime="20231027231500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Emboscada)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="155" begintime="20231028000600" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Solo y en peligro (Cerca de casa)</Name>
+          <ShortDescription>?Qué pasaría si estuvieras solo en el bosque rodeado por muchos depredadores? Esta serie muestra disti...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="156" begintime="20231028005800" duration="005400" eventtype="00">
+        <EventText language="spa">
+          <Name>Costa Rica salvaje</Name>
+          <ShortDescription>Conozca a los excepcionales y sigilosos ocelotes y pumas, y explore el vibrante mundo submarino que al...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="157" begintime="20231028015200" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Hawái desconocido</Name>
+          <ShortDescription>Las playas de Hawái son conocidas por los anuncios turísticos, pero más allá de las palmeras y los bar...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="158" begintime="20231028024500" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Criaturas misteriosas (El dragón del lago Chelan)</Name>
+          <ShortDescription>Forrest Galante y su equipo recorren el mundo para investigar criaturas misteriosas que generan confli...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante,Jessica Evans" />
+        </EventText>
+      </Event>
+      <Event eventod="159" begintime="20231028033800" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Hombre vs. elefante)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="160" begintime="20231028043100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Emboscada)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="161" begintime="20231028052300" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Solo y en peligro (Cerca de casa)</Name>
+          <ShortDescription>?Qué pasaría si estuvieras solo en el bosque rodeado por muchos depredadores? Esta serie muestra disti...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="162" begintime="20231028061600" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Costa Rica salvaje</Name>
+          <ShortDescription>Conozca a los excepcionales y sigilosos ocelotes y pumas, y explore el vibrante mundo submarino que al...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="163" begintime="20231028070800" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Hawái desconocido</Name>
+          <ShortDescription>Las playas de Hawái son conocidas por los anuncios turísticos, pero más allá de las palmeras y los bar...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="164" begintime="20231028080000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (Sangre en el agua)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="165" begintime="20231028085100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (El desafío de los lagartos)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="166" begintime="20231028094200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx (Cerdo hermoso)</Name>
+          <ShortDescription>Filmado en un período de ocho meses, esta serie documental lleva al público detrás del escenario del r...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jim Breheny,Annie Rivas,John Sykes" />
+        </EventText>
+      </Event>
+      <Event eventod="167" begintime="20231028103300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El acuario (Viscoso)</Name>
+          <ShortDescription>Esta serie lleva a los espectadores a recorrer el detrás de escena del acuario más grande del hemisfer...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="168" begintime="20231028112400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El acuario (El trato de la foca)</Name>
+          <ShortDescription>Esta serie lleva a los espectadores a recorrer el detrás de escena del acuario más grande del hemisfer...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="169" begintime="20231028121500" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes del pantano (Noche de terror)</Name>
+          <ShortDescription>Dusty crum, un cazador de serpientes, y su devota tripulación luchan por salvar la tierra que conocen ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dusty Crum" />
+        </EventText>
+      </Event>
+      <Event eventod="170" begintime="20231028130300" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Costa Rica salvaje</Name>
+          <ShortDescription>Conozca a los excepcionales y sigilosos ocelotes y pumas, y explore el vibrante mundo submarino que al...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="171" begintime="20231028135100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>El acuario (El Super tazón de corales)</Name>
+          <ShortDescription>Esta serie lleva a los espectadores a recorrer el detrás de escena del acuario más grande del hemisfer...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="172" begintime="20231028144300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Criaturas misteriosas (Brujería de cocodrilo)</Name>
+          <ShortDescription>Forrest Galante y su equipo recorren el mundo para investigar criaturas misteriosas que generan confli...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante,Jessica Evans" />
+        </EventText>
+      </Event>
+      <Event eventod="173" begintime="20231028153400" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Caminando con elefantes (Unirse a la manada)</Name>
+          <ShortDescription>El autor y explorador Levison Wood, famoso por caminar por el Nilo, el Himalaya y América Central, se ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Levison Wood,Kane Motswana" />
+        </EventText>
+      </Event>
+      <Event eventod="174" begintime="20231028162600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Lucha por los rinocerontes (Jugando con fuego)</Name>
+          <ShortDescription>Cada a?o, quinientos rinocerontes pierden sus vidas a manos de cazadores ilegales que venden sus cuern...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="175" begintime="20231028171700" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Solo y en peligro (Caos en la monta?a)</Name>
+          <ShortDescription>?Qué pasaría si estuvieras solo en el bosque rodeado por muchos depredadores? Esta serie muestra disti...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="176" begintime="20231028180800" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (El lejano sur)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="177" begintime="20231028190100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Patagonia extraordinaria (Un a?o en la naturaleza)</Name>
+          <ShortDescription>Explore las extraordinarias bellezas de la Patagonia, una región que cubre una vasta área en el extrem...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Pedro Pascal,Kevin Zaouali,Pablo Borboroglu" />
+        </EventText>
+      </Event>
+      <Event eventod="178" begintime="20231028195300" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (El asesino sombrío)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="179" begintime="20231028204200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mansiones en los árboles (Internacional: Francia)</Name>
+          <ShortDescription>Sigue de cerca el trabajo de Pete Nelson. Este dise?ador y constructor de casas en los árboles se dedi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Peter Nelson,Tory Jones,Christina Salway" />
+        </EventText>
+      </Event>
+      <Event eventod="180" begintime="20231028213300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (Miedo en Filipinas)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="181" begintime="20231028222400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (Bunker agresivo)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="182" begintime="20231028231500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx (Amor de lémur)</Name>
+          <ShortDescription>Filmado en un período de ocho meses, esta serie documental lleva al público detrás del escenario del r...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jim Breheny,Annie Rivas,John Sykes" />
+        </EventText>
+      </Event>
+      <Event eventod="183" begintime="20231029000600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes del pantano (Muchas serpientes)</Name>
+          <ShortDescription>Dusty crum, un cazador de serpientes, y su devota tripulación luchan por salvar la tierra que conocen ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dusty Crum" />
+        </EventText>
+      </Event>
+      <Event eventod="184" begintime="20231029005700" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Los secretos del reino animal (Lagartos que levitan y medusas inmortales)</Name>
+          <ShortDescription>Los animales pueden hacer cosas extraordinarias, pero la pregunta es ?cómo lo hacen? Conozca los secre...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Hugh Bonneville" />
+        </EventText>
+      </Event>
+      <Event eventod="185" begintime="20231029012400" duration="002500" eventtype="00">
+        <EventText language="spa">
+          <Name>Los secretos del reino animal (Búhos supersónicos y pulpos invisibles)</Name>
+          <ShortDescription>Los animales pueden hacer cosas extraordinarias, pero la pregunta es ?cómo lo hacen? Conozca los secre...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Hugh Bonneville" />
+        </EventText>
+      </Event>
+      <Event eventod="186" begintime="20231029014900" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>El acuario (La aventura de Bacon y Tomato)</Name>
+          <ShortDescription>Esta serie lleva a los espectadores a recorrer el detrás de escena del acuario más grande del hemisfer...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="187" begintime="20231029024100" duration="005400" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (Miedo en Filipinas)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="188" begintime="20231029033500" duration="005400" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (Bunker agresivo)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="189" begintime="20231029042900" duration="005400" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx (Amor de lémur)</Name>
+          <ShortDescription>Filmado en un período de ocho meses, esta serie documental lleva al público detrás del escenario del r...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jim Breheny,Annie Rivas,John Sykes" />
+        </EventText>
+      </Event>
+      <Event eventod="190" begintime="20231029052300" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes del pantano (Muchas serpientes)</Name>
+          <ShortDescription>Dusty crum, un cazador de serpientes, y su devota tripulación luchan por salvar la tierra que conocen ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dusty Crum" />
+        </EventText>
+      </Event>
+      <Event eventod="191" begintime="20231029061200" duration="002900" eventtype="00">
+        <EventText language="spa">
+          <Name>Los secretos del reino animal (Lagartos que levitan y medusas inmortales)</Name>
+          <ShortDescription>Los animales pueden hacer cosas extraordinarias, pero la pregunta es ?cómo lo hacen? Conozca los secre...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Hugh Bonneville" />
+        </EventText>
+      </Event>
+      <Event eventod="192" begintime="20231029064100" duration="002500" eventtype="00">
+        <EventText language="spa">
+          <Name>Los secretos del reino animal (Búhos supersónicos y pulpos invisibles)</Name>
+          <ShortDescription>Los animales pueden hacer cosas extraordinarias, pero la pregunta es ?cómo lo hacen? Conozca los secre...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Hugh Bonneville" />
+        </EventText>
+      </Event>
+      <Event eventod="193" begintime="20231029070600" duration="005400" eventtype="00">
+        <EventText language="spa">
+          <Name>El acuario (La aventura de Bacon y Tomato)</Name>
+          <ShortDescription>Esta serie lleva a los espectadores a recorrer el detrás de escena del acuario más grande del hemisfer...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="194" begintime="20231029080000" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (Establo en el patio trasero)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="195" begintime="20231029084900" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>El genio de las piscinas (Piscina en el acantilado)</Name>
+          <ShortDescription>El paisajista Anthony Archer es un maestro extraordinario: dise?a y construye bellísimas piscinas natu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Anthony Archer" />
+        </EventText>
+      </Event>
+      <Event eventod="196" begintime="20231029093800" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Silencioso y fatal)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="197" begintime="20231029100500" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El ninja de la selva)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="198" begintime="20231029103200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (La pantera nebulosa de Formosa)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="199" begintime="20231029112300" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>El último de su especie (El lobo de Terranova)</Name>
+          <ShortDescription>Forrest es un biólogo que recorre el mundo y se enfrenta a lugares remotos y peligrosos en busca de pr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Forrest Galante" />
+        </EventText>
+      </Event>
+      <Event eventod="200" begintime="20231029121300" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Tiburón asesino: la extinción</Name>
+          <ShortDescription>El tiburón asesino está de vuelta y puede llevar a la nutria marina de California a la extinción. Los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brandon McMillan,Jimi Partington,Ralph Collier" />
+        </EventText>
+      </Event>
+      <Event eventod="201" begintime="20231029130100" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Vinieron desde abajo)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="202" begintime="20231029135000" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Violentos y venenosos)</Name>
+          <ShortDescription>En todo el mundo, animales de un país han desplazado a los animales de otro. ?Cómo ocurrieron estas in...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="203" begintime="20231029144100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Leyendas salvajes (Sangre en el agua)</Name>
+          <ShortDescription>Seguimos las aventuras de Damian Duffy, un guía de vida silvestre certificado, y Matt Hoffman, un fotó...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Damian Duffy,Matt Hoffmann" />
+        </EventText>
+      </Event>
+      <Event eventod="204" begintime="20231029153200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (El desafío de los lagartos)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="205" begintime="20231029162300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx (Cerdo hermoso)</Name>
+          <ShortDescription>Filmado en un período de ocho meses, esta serie documental lleva al público detrás del escenario del r...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jim Breheny,Annie Rivas,John Sykes" />
+        </EventText>
+      </Event>
+      <Event eventod="206" begintime="20231029171400" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Guardianes del pantano (Noche de terror)</Name>
+          <ShortDescription>Dusty crum, un cazador de serpientes, y su devota tripulación luchan por salvar la tierra que conocen ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dusty Crum" />
+        </EventText>
+      </Event>
+      <Event eventod="207" begintime="20231029180300" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Costa Rica salvaje</Name>
+          <ShortDescription>Conozca a los excepcionales y sigilosos ocelotes y pumas, y explore el vibrante mundo submarino que al...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="208" begintime="20231029185100" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Encuentros con monstruos (Anaconda)</Name>
+          <ShortDescription>El experto en vida silvestre y aventurero, Steve Backshall, estudia cuatro animales monstruosos e ingr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Steve Backshall" />
+        </EventText>
+      </Event>
+      <Event eventod="209" begintime="20231029194300" duration="014100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mansiones en los árboles (Aventura en una casa del árbol hawaiana)</Name>
+          <ShortDescription>Sigue de cerca el trabajo de Pete Nelson. Este dise?ador y constructor de casas en los árboles se dedi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Peter Nelson,Tory Jones,Christina Salway" />
+        </EventText>
+      </Event>
+      <Event eventod="210" begintime="20231029212400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (Un espacio de juego para las cabras pigmeas)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="211" begintime="20231029221400" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>El genio de las piscinas (Vinos en la piscina)</Name>
+          <ShortDescription>El paisajista Anthony Archer es un maestro extraordinario: dise?a y construye bellísimas piscinas natu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Anthony Archer" />
+        </EventText>
+      </Event>
+      <Event eventod="212" begintime="20231029230400" duration="014700" eventtype="00">
+        <EventText language="spa">
+          <Name>El misterio del submarino 85</Name>
+          <ShortDescription>Cuando el submarino U-Boat 85 se hundió cerca de Escocia en la Primera Guerra Mundial, la tripulación ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="213" begintime="20231030005100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Invasión caníbal)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="214" begintime="20231030014200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Entrar a la fuerza)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="215" begintime="20231030023300" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (Un espacio de juego para las cabras pigmeas)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="216" begintime="20231030032300" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>El genio de las piscinas (Vinos en la piscina)</Name>
+          <ShortDescription>El paisajista Anthony Archer es un maestro extraordinario: dise?a y construye bellísimas piscinas natu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Anthony Archer" />
+        </EventText>
+      </Event>
+      <Event eventod="217" begintime="20231030041200" duration="014400" eventtype="00">
+        <EventText language="spa">
+          <Name>El misterio del submarino 85</Name>
+          <ShortDescription>Cuando el submarino U-Boat 85 se hundió cerca de Escocia en la Primera Guerra Mundial, la tripulación ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="218" begintime="20231030055600" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Invasión caníbal)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="219" begintime="20231030064500" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Entrar a la fuerza)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="220" begintime="20231030073400" duration="002600" eventtype="00">
+        <EventText language="spa">
+          <Name>Animales y famosos (El ganado de Von Miller)</Name>
+          <ShortDescription>Ya sea en casa, en el set o en el medio de la nada, estas son las aventuras animadas más alocadas y ex...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="221" begintime="20231030080000" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (El club de la pelea de gallos)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="222" begintime="20231030085200" duration="005200" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Perros y monos)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="223" begintime="20231030094400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Entre perros y gatos (Me echan mis animales)</Name>
+          <ShortDescription>En esta serie, las parejas tratan de que las mascotas opuestas se lleven bien, y para eso le piden ayu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy,Zoe Stathis-Sandor" />
+        </EventText>
+      </Event>
+      <Event eventod="224" begintime="20231030103500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mi gato endemoniado (El programa de viaje)</Name>
+          <ShortDescription>Desde gatos espásticos hasta felinos violentos, Jackson, experto en comportamiento de estos animales, ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy" />
+        </EventText>
+      </Event>
+      <Event eventod="225" begintime="20231030112600" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Los cazadores de veneno (Mordidos)</Name>
+          <ShortDescription>Un equipo de cazadores arriesgan la vida en la búsqueda de veneno animal para obtener muestras de toxi...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan Massey, Chewy,Brian Barczyk" />
+        </EventText>
+      </Event>
+      <Event eventod="226" begintime="20231030121400" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Cervatillos amigos)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="227" begintime="20231030130300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Dr. Jeff, veterinario (Una nueva aventura)</Name>
+          <ShortDescription>El Dr. Jeff Young es un carismático héroe que tiene un espíritu positivo mientras trata a una amplia v...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jeff Young" />
+        </EventText>
+      </Event>
+      <Event eventod="228" begintime="20231030135400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (El desafío de los lagartos)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+      <Event eventod="229" begintime="20231030144500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Guaridas con estilo (Establo en el patio trasero)</Name>
+          <ShortDescription>Antonio, Grace, y su mano derecha, el bulldog Chewie, junto con un equipo de gati-expertos y can-quite...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Antonio Ballatore" />
+        </EventText>
+      </Event>
+      <Event eventod="230" begintime="20231030153600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>El genio de las piscinas (Piscina en el acantilado)</Name>
+          <ShortDescription>El paisajista Anthony Archer es un maestro extraordinario: dise?a y construye bellísimas piscinas natu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Anthony Archer" />
+        </EventText>
+      </Event>
+      <Event eventod="231" begintime="20231030162700" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (Silencioso y fatal)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="232" begintime="20231030165400" duration="002700" eventtype="00">
+        <EventText language="spa">
+          <Name>Peque?os gigantes de la naturaleza (El ninja de la selva)</Name>
+          <ShortDescription>Una serie que explora a las peque?as criaturas que gobiernan sus entornos con armas sobrenaturales cas...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="233" begintime="20231030172100" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Tiburón asesino: la extinción</Name>
+          <ShortDescription>El tiburón asesino está de vuelta y puede llevar a la nutria marina de California a la extinción. Los ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brandon McMillan,Jimi Partington,Ralph Collier" />
+        </EventText>
+      </Event>
+      <Event eventod="234" begintime="20231030181200" duration="004900" eventtype="00">
+        <EventText language="spa">
+          <Name>Invasores (Vinieron desde abajo)</Name>
+          <ShortDescription>Esta serie muestra historias de horror de la vida real de casas plagadas de cucarachas, infestadas con...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Brian Netto,Christa Campbell,Adam Schindler" />
+        </EventText>
+      </Event>
+      <Event eventod="235" begintime="20231030190100" duration="004800" eventtype="00">
+        <EventText language="spa">
+          <Name>Encuentros con monstruos (Hipopótamo asesino)</Name>
+          <ShortDescription>El experto en vida silvestre y aventurero, Steve Backshall, estudia cuatro animales monstruosos e ingr...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Steve Backshall" />
+        </EventText>
+      </Event>
+      <Event eventod="236" begintime="20231030194900" duration="005300" eventtype="00">
+        <EventText language="spa">
+          <Name>Edén: paraísos remotos (Luangwa: el valle esmeralda)</Name>
+          <ShortDescription>Un viaje por los rincones más lejanos del planeta para descubrir los secretos de las pocas tierras vír...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="237" begintime="20231030204200" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Wild Frank: Ante los ojos del león ()</Name>
+          <ShortDescription>Esta temporada está concebida como un evento especial de la saga y consta tan solo de tres episodios, ...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Frank Cuesta" />
+        </EventText>
+      </Event>
+      <Event eventod="238" begintime="20231030213300" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Refugio en el granero (Trabajando en el lavadero)</Name>
+          <ShortDescription>Dan McKernan dejó la vida de ciudad y se fue a Michigan. Allí creo un refugio para animales en la hist...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Dan McKernan" />
+        </EventText>
+      </Event>
+      <Event eventod="239" begintime="20231030222400" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Mascotas revoltosas (Mascotas mimadas)</Name>
+          <ShortDescription>Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguetes para mor...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Eric De Picciotto" />
+        </EventText>
+      </Event>
+      <Event eventod="240" begintime="20231030231500" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Entre perros y gatos (El gato necesita cuidado)</Name>
+          <ShortDescription>En esta serie, las parejas tratan de que las mascotas opuestas se lleven bien, y para eso le piden ayu...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Jackson Galaxy,Zoe Stathis-Sandor" />
+        </EventText>
+      </Event>
+      <Event eventod="241" begintime="20231031000600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>El zoológico del Bronx: detrás de las cámaras (Un nuevo comienzo)</Name>
+          <ShortDescription>Serie documental que lleva al público detrás del escenario del renombrado Zoo del Bronx. Situado a die...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="S/D" />
+        </EventText>
+      </Event>
+      <Event eventod="242" begintime="20231031005600" duration="005000" eventtype="00">
+        <EventText language="spa">
+          <Name>Veterinarios de Texas (En Houston)</Name>
+          <ShortDescription>Este programa muestra el trabajo cotidiano de tres veterinarios y sus familias. Estos expertos enfrent...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Diarra Blue,Aubrey Ross,Mike Lavigne" />
+        </EventText>
+      </Event>
+      <Event eventod="243" begintime="20231031014600" duration="005100" eventtype="00">
+        <EventText language="spa">
+          <Name>Los Irwin (Bunker agresivo)</Name>
+          <ShortDescription>Terri, Bindi y Robert Irwin continúan con el legado de Steve a través de su trabajo en el extenso Zool...</ShortDescription>
+          <ExtendedInfo itemname="Actors" itemcontent="Bindi Irwin,Robert Clarence Irwin,Terri Irwin" />
+        </EventText>
+      </Event>
+    </Channel>
+  </SchedulerData>
+</BroadcastData>
